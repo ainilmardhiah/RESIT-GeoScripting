@@ -261,4 +261,4 @@ plot(Result)
 
 
 # alhamdulilah, tinggal bahas soal ujian, practice exam, sama assignmentttttt, omg banyak yaa
-#lah kagak guna sign makanya nggk update di github guee dfakndfak
+#lah kagak guna sign makanya nggk update di github guee dfakndfakfvd
